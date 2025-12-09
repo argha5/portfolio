@@ -134,6 +134,22 @@ nav {
     color: #667eea;
 }
 
+.project-link {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    background-color: #667eea;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+    font-size: 0.9rem;
+}
+
+.project-link:hover {
+    background-color: #764ba2;
+}
+
 footer {
     background-color: #333;
     color: #fff;
